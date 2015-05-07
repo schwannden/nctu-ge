@@ -1,4 +1,4 @@
 # Summary
 
-* principles
+* [principles](principles.md)
 
