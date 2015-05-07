@@ -1,6 +1,6 @@
 # Summary
 
-* [principle1](principle1.md)
-* [principle2](principle2.md)
-* principles
+* [principle_1](principle_1.md)
+* [principle_2](principle2.md)
+* [principles](principles.md)
 
