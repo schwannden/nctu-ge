@@ -1,2 +1,1 @@
-# principles
-
+# 三大原則
