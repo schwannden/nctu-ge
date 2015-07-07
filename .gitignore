@@ -1,3 +1,5 @@
 2015raw*
 .DS*
 nctu
+python/__pycache__
+python/mac.command
